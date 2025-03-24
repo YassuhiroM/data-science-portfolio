@@ -1,2 +1,2 @@
-# data-science-portfolio
+# My Data Science Portfolio
 Personal data science portfolio
