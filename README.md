@@ -1,7 +1,7 @@
 ## My Data Science Portfolio
 Personal data science portfolio
 
-## Tableau Visualizations
+## 1. Tableau Visualizations
 #### https://public.tableau.com/app/profile/yassuhiro.m/vizzes 
 
 ### Brazilian GDP per Capita by Municipality (2021)
