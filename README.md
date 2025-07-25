@@ -11,7 +11,7 @@ GDP per capita for 5570 Brazilian municipalities | Interactive Map | Data source
 
 <p align="center">
   <a href="https://public.tableau.com/views/BrazilianGDPperCapita-InteractiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_br_gdp_2021.png" alt="Brazilian GDP per Capita Dashboard Thumbnail" width="75%">
+    <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_br_gdp_2021.png" alt="Brazilian GDP per Capita Dashboard Thumbnail" width="25%">
   </a>
 </p>
 
