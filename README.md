@@ -3,7 +3,7 @@ Personal data science portfolio
 
 ### [1. Tableau Visualizations](https://public.tableau.com/app/profile/yassuhiro.m/vizzes) 
 ***1.1. Brazilian GDP per Capita by Municipality (2021) - published in Jul 2025***  
-GDP per capita for 5570 Brazilian municipalities | Interactive Map | Data source: IBGE
+GDP per capita for each of the 5570 Brazilian municipalities | Interactive Map | Data source: IBGE
 <p align="center">
   <a href="https://public.tableau.com/views/BrazilianGDPperCapitabyMunicipality2021/BrazilianGDPperCapita-InteractiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_br_gdp_2021.png" alt="Brazilian GDP per Capita Dashboard Thumbnail" width="25%">
