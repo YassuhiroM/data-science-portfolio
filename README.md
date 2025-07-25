@@ -6,3 +6,6 @@ Personal data science portfolio
 
 ### Brazilian GDP per Capita by Municipality (2021)
 #### https://public.tableau.com/views/BrazilianGDPperCapitabyMunicipality2021/BrazilianGDPperCapita-InteractiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+### Easy Loans Dashboard (credit company)
+https://public.tableau.com/views/EasyLoansReport_M_Yassuhiro_Iha/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
