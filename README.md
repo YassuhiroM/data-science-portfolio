@@ -11,7 +11,7 @@ GDP per capita for 5570 Brazilian municipalities | Interactive Map | Data source
 </p>
 
 ***1.2. Easy Loans Dashboard (credit company) - published Jul 2025***  
-Business dashboard for a Loan Company. using filters and interactive graphics. It also features a Sankey graphic connecting 3 category dimensions.
+Business dashboard for a Loan Company. using filters and interactive graphics. It also features a **Sankey graphic** connecting 3 category dimensions.
 <p align="center">
   <a href="https://public.tableau.com/views/EasyLoansReport_M_Yassuhiro_Iha/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_easy_loans.png" alt="Brazilian GDP per Capita Dashboard Thumbnail" width="25%">
