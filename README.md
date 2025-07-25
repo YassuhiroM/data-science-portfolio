@@ -3,6 +3,7 @@ Personal data science portfolio
 
 ### [1. Tableau Visualizations](https://public.tableau.com/app/profile/yassuhiro.m/vizzes) 
 [1.1. Brazilian GDP per Capita by Municipality (2021) - published in Jul 2025](https://public.tableau.com/views/BrazilianGDPperCapitabyMunicipality2021/BrazilianGDPperCapita-InteractiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+[[Description of my project](img_tableau_br_gdp_2021.png)](https://github.com/YassuhiroM/project-assets)
 GDP per capita for 5570 Brazilian municipalities | Interactive Map | Data source: IBGE
 
 [1.2. Easy Loans Dashboard (credit company) - published Jul 2025](https://public.tableau.com/views/EasyLoansReport_M_Yassuhiro_Iha/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
