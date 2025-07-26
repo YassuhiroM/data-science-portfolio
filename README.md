@@ -16,3 +16,13 @@ Business dashboard for a Loan Company. using filters and interactive graphics. I
     <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_easy_loans.png" alt="Brazilian GDP per Capita Dashboard Thumbnail" width="25%">
   </a>
 </p>
+
+### 2. Python coding | *Codificación en python*
+***2.1. Brazilian GDP per Capita by Municipality (2021) - published in Jul 2025***  
+NoSQL coding using the PyMongo library in Python. This project was developed as part of the 'Bases de Datos NoSQL' course, taught by Professor Alvaro Bravo in the Master in Data Science, Big Data & Business Analytics program at the Universidad Complutense de Madrid (UCM).
+<p align="center">
+  <a href="https://public.tableau.com/views/BrazilianGDPperCapitabyMunicipality2021/BrazilianGDPperCapita-InteractiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_br_gdp_2021.png" alt="Brazilian GDP per Capita Dashboard Thumbnail" width="25%">
+  </a>
+</p>
+
