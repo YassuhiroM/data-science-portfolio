@@ -13,7 +13,7 @@ GDP per capita for each of the 5570 Brazilian municipalities | Interactive Map |
 Business dashboard for a Loan Company. using filters and interactive graphics. It also features a **Sankey graphic** connecting 3 category dimensions.
 <p align="center">
   <a href="https://public.tableau.com/views/EasyLoansReport_M_Yassuhiro_Iha/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_easy_loans.png" alt="Brazilian GDP per Capita Dashboard Thumbnail" width="25%">
+    <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_easy_loans.png" alt="Easy Loans Dashboard Thumbnail" width="25%">
   </a>
 </p>
 
@@ -22,7 +22,8 @@ Business dashboard for a Loan Company. using filters and interactive graphics. I
 NoSQL coding using the PyMongo library in Python. This project was developed as part of the 'Bases de Datos NoSQL' course, taught by Professor Alvaro Bravo in the Master in Data Science, Big Data & Business Analytics program at the Universidad Complutense de Madrid (UCM).
 <p align="center">
   <a href="https://public.tableau.com/views/BrazilianGDPperCapitabyMunicipality2021/BrazilianGDPperCapita-InteractiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_tableau_br_gdp_2021.png" alt="Brazilian GDP per Capita Dashboard Thumbnail" width="25%">
+    <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_nosql_pymongo_top1000_spotify_songs" alt="NoSQL | Pymongo | Spotify Top 1000 thumbnail" width="25%">
   </a>
 </p>
 
+img_nosql_pymongo_top1000_spotify_songs
