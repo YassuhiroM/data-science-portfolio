@@ -9,7 +9,7 @@ GDP per capita for each of the 5570 Brazilian municipalities | Interactive Map |
   </a>
 </p>
 
-***1.2. Easy Loans Dashboard (credit company) - published Jul 2025***  
+- ***Easy Loans Dashboard (credit company) - published Jul 2025***  
 Business dashboard for a Loan Company. using filters and interactive graphics. It also features a **Sankey graphic** connecting 3 category dimensions.
 <p align="center">
   <a href="https://public.tableau.com/views/EasyLoansReport_M_Yassuhiro_Iha/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
@@ -18,7 +18,7 @@ Business dashboard for a Loan Company. using filters and interactive graphics. I
 </p>
 
 ### 2. Python coding | *Codificación en python*
-***2.1. Analysis of TOP 1000 Most Streamed Songs in 2023 - NoSQL coding using the PyMongo library in Python - published in Jul 2025***  
+- ***Analysis of TOP 1000 Most Streamed Songs in 2023 - NoSQL coding using the PyMongo library in Python - published in Jul 2025***  
 NoSQL coding using the PyMongo library in Python. This project was developed as part of the 'Bases de Datos NoSQL' course, taught by Professor Alvaro Bravo in the Master in Data Science, Big Data & Business Analytics program at the Universidad Complutense de Madrid (UCM).
 <p align="center">
   <a href="https://public.tableau.com/views/BrazilianGDPperCapitabyMunicipality2021/BrazilianGDPperCapita-InteractiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
