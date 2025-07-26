@@ -25,6 +25,3 @@ NoSQL coding using the PyMongo library in Python. This project was developed as 
     <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_nosql_pymongo_top1000_spotify_songs.png" alt="NoSQL | Pymongo | Spotify Top 1000 thumbnail" width="25%">
   </a>
 </p>
-
-img_nosql_pymongo_top1000_spotify_songs
-NoSQL_Pymongo_TOP_1000_Most_Streamed_Songs_in_2023_github.ipynb
