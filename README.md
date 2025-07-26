@@ -20,11 +20,7 @@ Business dashboard for a Loan Company. using filters and interactive graphics. I
 
 ### 2. Python coding | *Codificación en python*
 - ***Analysis of TOP 1000 Most Streamed Songs in 2023 - NoSQL coding using the PyMongo library in Python - published in Jul 2025***  
-NoSQL coding using the PyMongo library in Python. This project was developed as part of the 'Bases de Datos NoSQL' course, taught by
-
-[Professor Alvaro Bravo](https://www.linkedin.com/in/alvarobrac/?locale=en_US)
-
-in the Master in Data Science, Big Data & Business Analytics program at the Universidad Complutense de Madrid (UCM).
+NoSQL coding using the PyMongo library in Python. This project was developed as part of the 'Bases de Datos NoSQL' course, taught by [Professor Alvaro Bravo](https://www.linkedin.com/in/alvarobrac/?locale=en_US) in the Master in Data Science, Big Data & Business Analytics program at the Universidad Complutense de Madrid (UCM).
 <p align="center">
   <a href="NoSQL_Pymongo_TOP_1000_Most_Streamed_Songs_in_2023_github.ipynb">
     <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_nosql_pymongo_top1000_spotify_songs.png" alt="NoSQL | Pymongo | Spotify Top 1000 thumbnail" width="25%">
