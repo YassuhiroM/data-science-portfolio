@@ -27,7 +27,7 @@ NoSQL coding using the PyMongo library in Python. This project was developed as 
   </a>
 </p>
 
-### 3. SQL/SnowFlake/Python
+### 3. SQL / SnowFlake / Python
 - ***SnowFlake Notebook Exercise (simultaneous Python and SQL coding)   - published in Aug 2025***  
 This is a simple Notebook exercise in SnowFlake to demonstrate the power of using both Python and SQL together for powerful results.  
 <p align="center">
