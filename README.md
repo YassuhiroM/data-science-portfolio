@@ -32,6 +32,6 @@ NoSQL coding using the PyMongo library in Python. This project was developed as 
 This is a simple Notebook exercise in SnowFlake to demonstrate the power of using both Python and SQL together for powerful results.  
 <p align="center">
   <a href="SNOWFLAKE_NOTEBOOK_EXERCISE_PYTHON_SQL.ipynb">
-    <img src="https://github.com/YassuhiroM/project-assets/blob/main/img_nosql_pymongo_top1000_spotify_songs.png" alt="NoSQL | Pymongo | Spotify Top 1000 thumbnail" width="25%">
+    <img src="https://github.com/YassuhiroM/project-assets/blob/main/SNOWFLAKE_NOTEBOOK_thumb.png" alt="SNOWFLAKE_NOTEBOOK_EXERCISE_PYTHON_SQL thumbnail" width="25%">
   </a>
 </p>
