@@ -20,7 +20,7 @@ Business dashboard for a Loan Company. using filters and interactive graphics. I
 
 ### 2. Python coding | *Codificación en python*
 
-- ***ETL (Extract, Transform, Load) OPEN DATA datasets - published in Sep 2025***  
+- ***<a href="https://github.com/YassuhiroM/data-science-portfolio/blob/main/ETL__CLEANING__OPEN_DATA_datasets_w_Python.ipynb">ETL (Extract, Transform, Load) OPEN DATA datasets - published in Sep 2025</a>***  
 Quick code to clean up usually not 'data-science ready' to use open data / public datasets. In my  first data science projects, I struggled to clean up data usually formatted for people consumption rather than data science tools. Knowing the right tools and the correct approach saves time and improves quality.
 <a href="https://github.com/YassuhiroM/data-science-portfolio/blob/main/ETL__CLEANING__OPEN_DATA_datasets_w_Python.ipynb">ETL (Extract, Transform, Load) OPEN DATA datasets - published in Sep 2025</a>
 
