@@ -22,7 +22,7 @@ Business dashboard for a Loan Company. using filters and interactive graphics. I
 
 - ***ETL (Extract, Transform, Load) OPEN DATA datasets - published in Sep 2025***  
 Quick code to clean up usually not 'data-science ready' to use open data / public datasets. In my  first data science projects, I struggled to clean up data usually formatted for people consumption rather than data science tools. Knowing the right tools and the correct approach saves time and improves quality.
-<a href="ETL__CLEANING__OPEN_DATA_datasets_w_Python.ipynb">
+<a href="[ETL__CLEANING__OPEN_DATA_datasets_w_Python.ipynb](https://github.com/YassuhiroM/data-science-portfolio/blob/main/ETL__CLEANING__OPEN_DATA_datasets_w_Python.ipynb)">
 
 
 - ***Analysis of TOP 1000 Most Streamed Songs in 2023 - NoSQL coding using the PyMongo library in Python - published in Jul 2025***  
